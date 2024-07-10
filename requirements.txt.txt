@@ -1,0 +1,5 @@
+Flask==2.0.1
+gtts==2.2.3
+pdfplumber==0.5.28
+gunicorn==20.1.0
+
